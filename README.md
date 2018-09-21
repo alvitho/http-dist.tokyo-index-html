@@ -1,1 +1,1 @@
-# http-dist.tokyo-index-html
+# http://dist.tokyo/index.html
